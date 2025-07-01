@@ -4,6 +4,7 @@ Learning Artificial Intelligence and Machine Learning from scratch while studyin
 ## Tools & Platforms:
 - Python (Colab, Anaconda)
 - Kaggle for exercises
+- Zero To Mastery for course
 
 ## Roadmap:
 
