@@ -6,10 +6,10 @@ Learning Artificial Intelligence and Machine Learning from scratch while studyin
 - Kaggle for exercises
 
 ## Roadmap:
-1. Python Basics
-2. Math for ML
-3. ML Algorithms
-4. Projects & Deployment
+
+1)Learning some basics of Python
+2)Following the zero to mastery Intro to Machine Learning & Data Science course
+
 
 Follow my journey here :)
 
