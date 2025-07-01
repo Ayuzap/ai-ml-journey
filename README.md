@@ -7,7 +7,7 @@ Learning Artificial Intelligence and Machine Learning from scratch while studyin
 
 ## Roadmap:
 
-1)Learning some basics of Python
+1)Learning some basics of Python<br>
 2)Following the zero to mastery Intro to Machine Learning & Data Science course
 
 
